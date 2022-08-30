@@ -30,15 +30,21 @@ I will be analyzing non-Bellabeat smart device data usage to gain insight into h
 <!-- Prepare -->
 ## Prepare
 
--  Data Used Fitbit Fitness Tracker data (CC0: public Domain, dataset made available through Mobius) Kaggle Data set
--Data is organized in 18 files in a .CSV format separated by activity, steps and heart rate.  
-The data contains Thirty eligible Fitbit users that consented to the submission of personal tracker data, including minute-level and daily activity, steps, and heart rate.
-ROCCC
-Reliability – Dataset was only collected from 30 individuals and the gender was unknown 
-Originality- Collected from Third party Amazon 
-Comprehensive: Data set contains multiple fields on daily 
-Current- The data set was collected from 3.12.2016-5.12.2016
-Cited- Data collector and source is documented
+•Data Used Fitbit Fitness Tracker data (CC0: public Domain, dataset made available through Mobius) Kaggle Data set
+•Data is organized in 18 files in a .CSV format separated by activity, steps and heart rate.  
+•The data contains Thirty eligible Fitbit users that consented to the submission of personal tracker data, including minute-level and daily activity, steps, and heart rate.
+
+### ROCCC
+
+  •Reliability – Dataset was only collected from 30 individuals and the gender was unknown 
+  
+  •Originality- Collected from Third party Amazon 
+  
+  •Comprehensive: Data set contains multiple fields on daily 
+  
+  •Current- The data set was collected from 3.12.2016-5.12.2016
+  
+  •Cited- Data collector and source is documented
 
 I will be working with the files: DailyActigity_merged, Dailycalories_merged, dailyintensities_merged, dailysteps_merged, sleepday_merged, weightloginfor_merged. 
 
