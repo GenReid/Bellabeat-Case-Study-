@@ -48,11 +48,12 @@ I will be analyzing non-Bellabeat smart device data usage to gain insight into h
 
 I will be working with the files: DailyActigity_merged, Dailycalories_merged, dailyintensities_merged, dailysteps_merged, sleepday_merged, weightloginfor_merged. 
 
-
 <!-- PROCESS -->
 ## PROCESS
+I will be using Excel Spreadsheets, SQL and Tableau
 
-
+### Cleaning data steps
+    •
 <!-- ANALYZE -->
 ## ANALYZE
 
