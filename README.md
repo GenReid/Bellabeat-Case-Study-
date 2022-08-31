@@ -31,8 +31,9 @@ I will be analyzing non-Bellabeat smart device data usage to gain insight into h
 ## Prepare
 
 •Data Used Fitbit Fitness Tracker data (CC0: public Domain, dataset made available through Mobius) Kaggle Data set
-•Data is organized in 18 files in a .CSV format separated by activity, steps and heart rate.  
-•The data contains Thirty eligible Fitbit users that consented to the submission of personal tracker data, including minute-level and daily activity, steps, and heart rate.
+•Data is organized in 18 files in a .CSV format separated by activity, steps and heart rate. 
+• Data is a mix of long and wide formats
+•The data contains thirty eligible Fitbit users that consented to the submission of personal tracker data, including minute-level and daily activity, steps, and heart rate.
 
 ### ROCCC
 
@@ -50,9 +51,12 @@ I will be working with the files: DailyActigity_merged, Dailycalories_merged, da
 
 <!-- PROCESS -->
 ## PROCESS
-I will be using Excel Spreadsheets, SQL and Tableau
-
-### Cleaning data steps
+ I will be using Excel Spreadsheets, R and Tableau
+ 
+ 
+ 
+ ### Cleaning data steps
+    •Started by checking formating in Excel 
     •
 <!-- ANALYZE -->
 ## ANALYZE
