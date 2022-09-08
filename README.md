@@ -54,10 +54,24 @@ I will be working with the files: DailyActigity_merged, Dailycalories_merged, da
  I will be using Excel Spreadsheets, SQL, and Tableau 
  
  
- 
  ### Cleaning data steps
-    •Started by checking formating in Excel 
-    •
+    •Started opening the files in Excel
+    •I noticed that the file DailyActivity has the calories, intensities, and steps all merged in to one. 
+    •I removed duplicate, only sheet that needed duplicates removed was sleep merge it went from 2070 to 2055 rows
+    •Sepreated date/time column 
+    •Uploaded the clean datasets in to SQL
+
+
+ In SQL I checked for how many participants we had in each dataset 
+
+    SELECT COUNT(DISTINCT Id) AS Total_IDs
+     FROM `fitbit_data.Daily_Activity`
+    
+    Daily_Activity-33
+    weight_log- 8
+    Sleep_day- 24
+    
+
 <!-- ANALYZE -->
 ## ANALYZE
 
