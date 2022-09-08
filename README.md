@@ -51,7 +51,7 @@ I will be working with the files: DailyActigity_merged, Dailycalories_merged, da
 
 <!-- PROCESS -->
 ## PROCESS
- I will be using Excel Spreadsheets, R and Tableau
+ I will be using Excel Spreadsheets, SQL, and Tableau 
  
  
  
