@@ -71,6 +71,10 @@ I will be working with the files: DailyActigity_merged, Dailycalories_merged, da
     weight_log- 8
     Sleep_day- 24
     
+ Decided not to use the weight_log data since there were few d
+ 
+Starting with Sleep_Day 
+SELECT TotalMinutesAsleep/60.0 AS hours FROM `fitbit_data.sleep_day`
 
 <!-- ANALYZE -->
 ## ANALYZE
